@@ -1,0 +1,17 @@
+zendesk.macro macro235 {
+  title = "macro235"
+  active = true
+  default = false
+  description = "macro desc 6436"
+  actions = [
+    {
+      field = "assignee_id"
+      value = "current_user"
+    },
+  ]
+  restriction = {
+    type = "User"
+    id = "neta.marcus+zendesk@salto.io"
+  }
+  raw_title = "macro235"
+}

@@ -1,0 +1,10 @@
+zendesk.section_order Salto_Knuckles__ {
+  sections = [
+    zendesk.section.instance.Salto_Knuckles_Background,
+    zendesk.section.instance.Salto_Knuckles_Introduction,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.Salto_Knuckles,
+  ]
+}
