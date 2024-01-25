@@ -1,0 +1,13 @@
+zendesk.user_field gwr_user_field1 {
+  type = "dropdown"
+  key = "gwr_user_field1"
+  raw_title = "gwr user field1"
+  raw_description = "change to text"
+  active = true
+  system = false
+  custom_field_options = [
+    zendesk.user_field__custom_field_options.instance.gwr_user_field1__gwr_20231212_one,
+    zendesk.user_field__custom_field_options.instance.gwr_user_field1__gwr_20231212_two,
+  ]
+  _alias = "gwr user field1"
+}
