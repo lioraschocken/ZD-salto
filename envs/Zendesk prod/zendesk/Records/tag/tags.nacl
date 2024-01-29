@@ -74,3 +74,7 @@ zendesk.tag bluetag {
   id = "bluetag"
   _alias = "bluetag"
 }
+zendesk.tag preview_release_request_beta_tester@uufu {
+  id = "preview_release_request:beta_tester"
+  _alias = "preview_release_request:beta_tester"
+}

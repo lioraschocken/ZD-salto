@@ -41,6 +41,7 @@ zendesk.trigger_order {
       category = zendesk.trigger_category.instance.Labeling
       active = [
         zendesk.trigger.instance.looks_at_users,
+        zendesk.trigger.instance.welcome_trigger@s,
       ]
       inactive = [
       ]
