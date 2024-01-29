@@ -28,4 +28,5 @@ zendesk.automation Platinum_Automation@s {
     ]
   }
   raw_title = "Platinum Automation"
+  _alias = "Platinum Automation"
 }

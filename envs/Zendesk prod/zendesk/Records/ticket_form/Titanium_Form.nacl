@@ -13,4 +13,5 @@ zendesk.ticket_form Titanium_Form@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Titanium Form"
 }

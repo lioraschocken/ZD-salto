@@ -22,4 +22,5 @@ zendesk.routing_attribute_value Location__Kyoto {
   _parent = [
     zendesk.routing_attribute.instance.Location,
   ]
+  _alias = "Kyoto"
 }

@@ -46,4 +46,5 @@ Play the famous zen tunes in your help desk and
       secure = false
     }
   }
+  _alias = "xr_app"
 }

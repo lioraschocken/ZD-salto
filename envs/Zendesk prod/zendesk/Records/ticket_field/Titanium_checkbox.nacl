@@ -11,4 +11,5 @@ zendesk.ticket_field Titanium_checkbox {
   required_in_portal = false
   tag = zendesk.tag.instance.titanium
   removable = true
+  _alias = "Titanium"
 }

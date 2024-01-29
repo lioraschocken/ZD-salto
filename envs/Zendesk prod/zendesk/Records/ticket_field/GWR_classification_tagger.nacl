@@ -18,4 +18,5 @@ zendesk.ticket_field GWR_classification_tagger@su {
     zendesk.ticket_field__custom_field_options.instance.GWR_classification_tagger_su__purple@uumuu,
     zendesk.ticket_field__custom_field_options.instance.GWR_classification_tagger_su__orange@uumuu,
   ]
+  _alias = "GWR classification"
 }

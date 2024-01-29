@@ -85,4 +85,5 @@ zendesk.view Global_accounts_view@s {
     ]
   }
   raw_title = "Global accounts view"
+  _alias = "Global accounts view"
 }

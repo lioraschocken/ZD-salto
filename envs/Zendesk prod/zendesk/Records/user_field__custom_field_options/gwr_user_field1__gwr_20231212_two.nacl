@@ -1,0 +1,8 @@
+zendesk.user_field__custom_field_options gwr_user_field1__gwr_20231212_two {
+  raw_name = "two"
+  value = "gwr_20231212_two"
+  _parent = [
+    zendesk.user_field.instance.gwr_user_field1,
+  ]
+  _alias = "two"
+}

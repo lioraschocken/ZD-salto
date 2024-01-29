@@ -1,3 +1,4 @@
 zendesk.trigger_category Labeling {
   name = "Labeling"
+  _alias = "Labeling"
 }

@@ -9,7 +9,8 @@ zendesk.organization_field_order {
     zendesk.organization_field.instance.org_field307,
     zendesk.organization_field.instance.dropdown_26,
     zendesk.organization_field.instance.dropdown_27,
-    zendesk.organization_field.instance.org_size,
+    zendesk.organization_field.instance.oftoremove,
+    zendesk.organization_field.instance.another_drop_down,
   ]
   inactive = [
   ]

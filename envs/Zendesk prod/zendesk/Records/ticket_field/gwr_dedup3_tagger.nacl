@@ -13,4 +13,5 @@ zendesk.ticket_field gwr_dedup3_tagger {
   custom_field_options = [
     zendesk.ticket_field__custom_field_options.instance.gwr_dedup3_tagger__gwr_dd3_1,
   ]
+  _alias = "gwr_dedup3"
 }

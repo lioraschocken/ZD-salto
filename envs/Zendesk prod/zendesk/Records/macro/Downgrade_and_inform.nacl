@@ -13,4 +13,5 @@ zendesk.macro Downgrade_and_inform@s {
     },
   ]
   raw_title = "Downgrade and inform"
+  _alias = "Downgrade and inform"
 }

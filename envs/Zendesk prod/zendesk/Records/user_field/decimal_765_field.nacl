@@ -5,4 +5,5 @@ zendesk.user_field decimal_765_field {
   raw_description = ""
   active = true
   system = false
+  _alias = "decimal 765 field"
 }

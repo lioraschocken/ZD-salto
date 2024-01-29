@@ -12,4 +12,5 @@ zendesk.ticket_field GoldField_checkbox {
   tag = ""
   removable = true
   agent_description = "Golden"
+  _alias = "GoldField"
 }

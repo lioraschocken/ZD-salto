@@ -11,4 +11,5 @@ zendesk.ticket_field Is_Pro_Customer_checkbox@ssu {
   required_in_portal = false
   removable = true
   agent_description = "Checked if this is a pro account"
+  _alias = "Is Pro Customer"
 }

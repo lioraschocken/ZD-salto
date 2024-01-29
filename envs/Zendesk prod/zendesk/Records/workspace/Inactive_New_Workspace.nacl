@@ -18,4 +18,5 @@ zendesk.workspace Inactive_New_Workspace@s {
       },
     ]
   }
+  _alias = "Inactive New Workspace"
 }

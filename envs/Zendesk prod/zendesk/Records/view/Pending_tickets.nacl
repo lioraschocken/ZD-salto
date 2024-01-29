@@ -108,4 +108,5 @@ zendesk.view Pending_tickets@s {
     ]
   }
   raw_title = "{{zd.pending_tickets}}"
+  _alias = "Pending tickets"
 }

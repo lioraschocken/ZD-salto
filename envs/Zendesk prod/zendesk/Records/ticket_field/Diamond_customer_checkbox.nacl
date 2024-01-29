@@ -12,4 +12,5 @@ zendesk.ticket_field Diamond_customer_checkbox@su {
   tag = ""
   removable = true
   agent_description = "Field to mark diamond customers"
+  _alias = "Diamond customer"
 }

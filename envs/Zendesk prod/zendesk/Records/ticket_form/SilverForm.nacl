@@ -13,4 +13,5 @@ zendesk.ticket_form SilverForm {
   active = true
   default = false
   in_all_brands = true
+  _alias = "SilverForm"
 }

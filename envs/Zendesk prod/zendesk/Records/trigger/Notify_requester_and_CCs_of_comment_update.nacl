@@ -31,4 +31,5 @@ Your request ({{ticket.id}}) has been updated. To add additional comments, reply
   }
   raw_title = "Notify requester and CCs of comment update"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify requester and CCs of comment update"
 }

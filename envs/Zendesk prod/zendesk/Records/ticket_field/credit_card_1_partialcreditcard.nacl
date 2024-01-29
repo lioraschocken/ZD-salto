@@ -10,4 +10,5 @@ zendesk.ticket_field credit_card_1_partialcreditcard@ssu {
   editable_in_portal = true
   required_in_portal = false
   removable = true
+  _alias = "credit card 1"
 }

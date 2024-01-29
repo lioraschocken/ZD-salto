@@ -14,4 +14,5 @@ zendesk.macro ZSC_Macro@s {
     },
   ]
   raw_title = "ZSC Macro"
+  _alias = "ZSC Macro"
 }

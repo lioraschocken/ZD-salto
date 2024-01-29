@@ -26,4 +26,5 @@ zendesk.business_hours_schedule New_schedule@s {
   holidays = [
     zendesk.business_hours_schedule_holiday.instance.New_schedule_s__Holiday1@umuu,
   ]
+  _alias = "New schedule"
 }

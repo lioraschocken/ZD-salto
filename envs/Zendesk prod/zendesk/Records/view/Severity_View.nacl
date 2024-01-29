@@ -92,4 +92,5 @@ zendesk.view Severity_View@s {
     ]
   }
   raw_title = "Severity View"
+  _alias = "Severity View"
 }

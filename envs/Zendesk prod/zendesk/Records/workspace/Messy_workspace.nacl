@@ -66,7 +66,7 @@ zendesk.workspace Messy_workspace@s {
       {
         field = "via_id"
         operator = "is_not"
-        value = zendesk.channel.instance.Twitter_DM@s
+        value = zendesk.channel.instance.X_Corp_DM@s
       },
     ]
   }
@@ -75,7 +75,8 @@ zendesk.workspace Messy_workspace@s {
       id = zendesk.macro.instance.Take_it_@sl
       title = "Take it!"
       active = true
-      usage_7d = 0
+      
     },
   ]
+  _alias = "Messy workspace"
 }

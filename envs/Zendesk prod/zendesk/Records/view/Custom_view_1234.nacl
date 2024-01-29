@@ -53,7 +53,7 @@ zendesk.view Custom_view_1234@s {
       },
       {
         id = "sla_next_breach_at"
-        title = "Next SLA breach"
+        title = "SLA"
         filterable = true
         sortable = true
       },
@@ -97,7 +97,7 @@ zendesk.view Custom_view_1234@s {
       },
       {
         id = "sla_next_breach_at"
-        title = "Next SLA breach"
+        title = "SLA"
         filterable = true
         sortable = true
       },
@@ -136,4 +136,5 @@ zendesk.view Custom_view_1234@s {
     ]
   }
   raw_title = "Custom view 1234"
+  _alias = "Custom view 1234"
 }

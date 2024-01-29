@@ -7,4 +7,5 @@ zendesk.dynamic_content_item__variants test_title_2_s__en_US_b@uumuuum {
   _parent = [
     zendesk.dynamic_content_item.instance.test_title_2@s,
   ]
+  _alias = "test title 2 - en-US"
 }

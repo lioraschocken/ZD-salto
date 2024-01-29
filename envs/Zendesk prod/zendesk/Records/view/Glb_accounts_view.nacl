@@ -85,4 +85,5 @@ zendesk.view Glb_accounts_view@s {
     ]
   }
   raw_title = "Glb accounts view"
+  _alias = "Glb accounts view"
 }

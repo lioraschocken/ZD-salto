@@ -8,5 +8,6 @@ zendesk.brand Salto {
   default = true
   is_deleted = false
   signature_template = "{{agent.signature}}"
-  categories = zendesk.category_order.instance.Salto__
+  
+  _alias = "Salto"
 }

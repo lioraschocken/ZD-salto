@@ -13,4 +13,5 @@ zendesk.ticket_form Str_accounts_form@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Str accounts form"
 }

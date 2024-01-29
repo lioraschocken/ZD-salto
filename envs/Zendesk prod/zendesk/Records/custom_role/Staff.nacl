@@ -25,7 +25,7 @@ zendesk.custom_role Staff {
     assign_tickets_to_any_group = false
     end_user_profile_access = "readonly"
     explore_access = "readonly"
-    forum_access = "readonly"
+    forum_access = "full"
     macro_access = "manage-personal"
     report_access = "readonly"
     ticket_editing = true
@@ -42,5 +42,16 @@ zendesk.custom_role Staff {
     manage_skills = false
     manage_slas = false
     manage_triggers = false
+    manage_suspended_tickets = false
+    ticket_redaction = false
+    manage_roles = "none"
+    manage_groups = false
+    manage_group_memberships = false
+    manage_organizations = false
+    view_reduced_count = false
+    view_filter_tickets = true
+    manage_macro_content_suggestions = false
+    read_macro_content_suggestions = false
   }
+  _alias = "Staff"
 }

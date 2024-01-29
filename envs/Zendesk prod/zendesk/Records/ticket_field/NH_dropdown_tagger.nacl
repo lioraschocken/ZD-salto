@@ -15,4 +15,5 @@ zendesk.ticket_field NH_dropdown_tagger@su {
     zendesk.ticket_field__custom_field_options.instance.NH_dropdown_tagger_su__nhv2@uumuu,
   ]
   default_custom_field_option = zendesk.ticket_field__custom_field_options.instance.NH_dropdown_tagger_su__nhv1@uumuu
+  _alias = "NH dropdown"
 }

@@ -5,4 +5,5 @@ zendesk.user_field description_123 {
   raw_description = "this is a field description"
   active = true
   system = false
+  _alias = "description 123"
 }

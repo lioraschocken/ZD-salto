@@ -14,4 +14,5 @@ zendesk.ticket_form Premier_Priority_Ticket@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Premier Priority Ticket"
 }

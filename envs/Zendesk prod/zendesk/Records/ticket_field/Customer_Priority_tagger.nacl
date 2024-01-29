@@ -15,4 +15,5 @@ zendesk.ticket_field Customer_Priority_tagger@su {
     zendesk.ticket_field__custom_field_options.instance.Customer_Priority_tagger_su__medium@uumuu,
     zendesk.ticket_field__custom_field_options.instance.Customer_Priority_tagger_su__high@uumuu,
   ]
+  _alias = "Customer Priority"
 }

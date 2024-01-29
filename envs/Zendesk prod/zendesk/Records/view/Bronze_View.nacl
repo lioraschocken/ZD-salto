@@ -102,4 +102,5 @@ zendesk.view Bronze_View@s {
     ]
   }
   raw_title = "Bronze View"
+  _alias = "Bronze View"
 }

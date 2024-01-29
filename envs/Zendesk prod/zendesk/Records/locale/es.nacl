@@ -5,4 +5,5 @@ zendesk.locale es {
   presentation_name = "Spanish - español"
   rtl = false
   default = false
+  _alias = "Spanish - español"
 }

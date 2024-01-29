@@ -60,4 +60,5 @@ zendesk.sla_policy SLA_501@s {
       business_hours = false
     },
   ]
+  _alias = "SLA 501"
 }

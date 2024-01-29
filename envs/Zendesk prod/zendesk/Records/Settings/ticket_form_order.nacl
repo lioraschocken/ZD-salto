@@ -28,7 +28,12 @@ zendesk.ticket_form_order {
     zendesk.ticket_form.instance.Gamers_form@s,
     zendesk.ticket_form.instance.ZSB,
     zendesk.ticket_form.instance.ZSC,
-    zendesk.ticket_form.instance.Nickel_form@s,
+    zendesk.ticket_form.instance.Global_Accounts_Form@s,
+    zendesk.ticket_form.instance.Pro_customers_ticket_form@s,
+    zendesk.ticket_form.instance.DP_Merge_1@s,
+    zendesk.ticket_form.instance.SRD___Enable_new_feature@sbsss,
+    zendesk.ticket_form.instance.DP___Missing_Test@sbss,
+    zendesk.ticket_form.instance.Eshed_s_Demo_Form@tss,
   ]
   inactive = [
   ]

@@ -10,4 +10,5 @@ zendesk.macro MacroCategory__NewCategory@f {
     },
   ]
   raw_title = "MacroCategory::NewCategory"
+  _alias = "MacroCategory::NewCategory"
 }

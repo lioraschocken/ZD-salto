@@ -12,4 +12,5 @@ zendesk.ticket_field MercuryField_checkbox {
   tag = ""
   removable = true
   agent_description = "A very fluid field..."
+  _alias = "MercuryField"
 }

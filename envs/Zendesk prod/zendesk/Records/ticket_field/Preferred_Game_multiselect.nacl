@@ -19,4 +19,5 @@ zendesk.ticket_field Preferred_Game_multiselect@su {
     zendesk.ticket_field__custom_field_options.instance.Preferred_Game_multiselect_su__fortnite@uumuu,
   ]
   default_custom_field_option = zendesk.ticket_field__custom_field_options.instance.Preferred_Game_multiselect_su__fortnite@uumuu
+  _alias = "Preferred Game"
 }

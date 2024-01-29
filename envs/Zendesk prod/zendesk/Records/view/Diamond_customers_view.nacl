@@ -94,4 +94,5 @@ zendesk.view Diamond_customers_view@s {
     ]
   }
   raw_title = "Diamond customers view"
+  _alias = "Diamond customers view"
 }

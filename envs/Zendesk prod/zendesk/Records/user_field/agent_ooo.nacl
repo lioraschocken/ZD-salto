@@ -6,4 +6,5 @@ zendesk.user_field agent_ooo {
   active = true
   system = false
   tag = zendesk.tag.instance.agent_ooo
+  _alias = "[Out of Office] Agent Out?"
 }

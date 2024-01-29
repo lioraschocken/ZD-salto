@@ -28,4 +28,5 @@ zendesk.automation Bronze_Automation_edited_in_service@s {
     ]
   }
   raw_title = "Bronze Automation edited in service"
+  _alias = "Bronze Automation edited in service"
 }

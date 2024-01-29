@@ -85,4 +85,5 @@ zendesk.view Enterprise_accounts_view@s {
     ]
   }
   raw_title = "Enterprise accounts view"
+  _alias = "Enterprise accounts view"
 }

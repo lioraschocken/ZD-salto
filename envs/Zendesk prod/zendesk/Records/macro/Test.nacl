@@ -15,4 +15,5 @@ zendesk.macro Test {
     ]
   }
   raw_title = "Test"
+  _alias = "Test"
 }

@@ -12,4 +12,5 @@ zendesk.ticket_field Platinum_checkbox {
   tag = ""
   removable = true
   agent_description = "Platinum Field"
+  _alias = "Platinum"
 }

@@ -1,3 +1,4 @@
 zendesk.channel Phone_call__incoming_@ssjk {
-  name = "Phone_call__incoming_@ssjk"
+  name = "Phone call (incoming)"
+  _alias = "Phone call (incoming)"
 }

@@ -113,4 +113,5 @@ zendesk.view Recently_updated_tickets@s {
     ]
   }
   raw_title = "{{zd.recently_updated_tickets}}"
+  _alias = "Recently updated tickets"
 }

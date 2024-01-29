@@ -16,4 +16,5 @@ zendesk.ticket_field Testticket_field5b22ccfd_multiselect {
     zendesk.ticket_field__custom_field_options.instance.Testticket_field5b22ccfd_multiselect__b,
   ]
   default_custom_field_option = zendesk.ticket_field__custom_field_options.instance.Testticket_field5b22ccfd_multiselect__a
+  _alias = "Testticket_field5b22ccfd"
 }

@@ -27,4 +27,5 @@ zendesk.automation Automate_ZSC_Routing@s {
     ]
   }
   raw_title = "Automate ZSC Routing"
+  _alias = "Automate ZSC Routing"
 }

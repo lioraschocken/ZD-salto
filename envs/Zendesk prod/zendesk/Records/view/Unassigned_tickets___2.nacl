@@ -94,4 +94,5 @@ zendesk.view Unassigned_tickets___2@ssbs {
     ]
   }
   raw_title = "Unassigned tickets - 2"
+  _alias = "Unassigned tickets - 2"
 }

@@ -13,4 +13,5 @@ zendesk.ticket_form Mercury_Form@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Mercury Form"
 }

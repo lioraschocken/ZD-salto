@@ -1,0 +1,8 @@
+zendesk.group DP___Zendesk_Push_Group@sbsss {
+  is_public = true
+  name = "DP - Zendesk Push Group"
+  description = ""
+  default = false
+  deleted = false
+  _alias = "DP - Zendesk Push Group"
+}

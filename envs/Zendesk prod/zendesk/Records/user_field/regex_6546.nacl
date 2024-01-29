@@ -6,4 +6,5 @@ zendesk.user_field regex_6546 {
   active = true
   system = false
   regexp_for_validation = "^prefix"
+  _alias = "regex 6546"
 }

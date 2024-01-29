@@ -93,4 +93,5 @@ zendesk.view Unassigned_tickets@s {
     ]
   }
   raw_title = "{{zd.unassigned_tickets}}"
+  _alias = "Unassigned tickets"
 }

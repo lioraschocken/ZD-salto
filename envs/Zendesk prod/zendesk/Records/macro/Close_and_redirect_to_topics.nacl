@@ -30,4 +30,5 @@ zendesk.macro Close_and_redirect_to_topics@s {
     },
   ]
   raw_title = "Close and redirect to topics"
+  _alias = "Close and redirect to topics"
 }

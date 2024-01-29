@@ -10,4 +10,5 @@ zendesk.ticket_field NH_Silver_ticket_text@ssu {
   editable_in_portal = false
   required_in_portal = false
   removable = true
+  _alias = "NH Silver ticket"
 }

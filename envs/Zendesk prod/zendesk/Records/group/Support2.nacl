@@ -1,7 +1,8 @@
 zendesk.group Support2 {
   is_public = true
   name = "Support2"
-  description = "test"
+  description = "Placeholder"
   default = false
   deleted = false
+  _alias = "Support2"
 }

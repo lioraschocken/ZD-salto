@@ -11,4 +11,5 @@ zendesk.ticket_field Strategic_account_checkbox@su {
   required_in_portal = false
   tag = ""
   removable = true
+  _alias = "Strategic account"
 }

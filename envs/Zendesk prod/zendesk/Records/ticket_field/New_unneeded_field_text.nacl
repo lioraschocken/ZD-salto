@@ -11,4 +11,5 @@ zendesk.ticket_field New_unneeded_field_text@ssu {
   required_in_portal = false
   removable = true
   agent_description = "just for testing"
+  _alias = "New unneeded field"
 }

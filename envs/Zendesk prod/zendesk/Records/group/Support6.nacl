@@ -4,4 +4,5 @@ zendesk.group Support6 {
   description = "test2"
   default = false
   deleted = false
+  _alias = "Support6"
 }

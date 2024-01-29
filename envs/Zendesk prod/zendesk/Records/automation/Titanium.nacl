@@ -28,4 +28,5 @@ zendesk.automation Titanium {
     ]
   }
   raw_title = "Titanium"
+  _alias = "Titanium"
 }

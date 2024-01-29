@@ -20,4 +20,5 @@ Hello {{ticket.requester.name}}. Our agent {{current_user.name}} has tried to co
     },
   ]
   raw_title = "Customer not responding (copy) with rich text"
+  _alias = "Customer not responding (copy) with rich text"
 }

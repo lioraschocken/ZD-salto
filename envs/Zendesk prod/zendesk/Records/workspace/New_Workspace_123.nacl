@@ -34,19 +34,20 @@ zendesk.workspace New_Workspace_123@s {
       id = zendesk.macro.instance.Close_and_redirect_to_topics_2@s
       title = "Close and redirect to topics 2"
       active = true
-      usage_7d = 0
+      
     },
     {
       id = zendesk.macro.instance.Downgrade_and_inform@s
       title = "Downgrade and inform"
       active = true
-      usage_7d = 0
+      
     },
     {
       id = zendesk.macro.instance.Close_and_redirect_to_topics@s
       title = "Close and redirect to topics"
       active = true
-      usage_7d = 0
+      
     },
   ]
+  _alias = "New Workspace 123"
 }

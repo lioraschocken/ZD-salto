@@ -13,4 +13,5 @@ zendesk.ticket_form Diamond_customer_form@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Diamond customer form"
 }

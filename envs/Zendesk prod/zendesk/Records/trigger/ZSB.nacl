@@ -34,4 +34,5 @@ zendesk.trigger ZSB {
   description = "On new ZSB ticket"
   raw_title = "ZSB"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "ZSB"
 }

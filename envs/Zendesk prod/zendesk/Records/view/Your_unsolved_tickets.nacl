@@ -101,4 +101,5 @@ zendesk.view Your_unsolved_tickets@s {
     ]
   }
   raw_title = "{{zd.your_unsolved_tickets}}"
+  _alias = "Your unsolved tickets"
 }

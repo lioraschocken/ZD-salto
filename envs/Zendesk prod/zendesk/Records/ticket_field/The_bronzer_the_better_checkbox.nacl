@@ -12,4 +12,5 @@ zendesk.ticket_field The_bronzer_the_better_checkbox@sssu {
   tag = ""
   removable = true
   agent_description = "Bronze is better than nothing"
+  _alias = "The bronzer the better"
 }

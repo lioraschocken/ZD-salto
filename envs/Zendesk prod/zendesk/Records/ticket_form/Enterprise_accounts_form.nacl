@@ -15,4 +15,5 @@ zendesk.ticket_form Enterprise_accounts_form@s {
   active = true
   default = false
   in_all_brands = true
+  _alias = "Enterprise accounts form"
 }

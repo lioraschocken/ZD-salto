@@ -1,3 +1,4 @@
 zendesk.channel Automation {
   name = "Automation"
+  _alias = "Automation"
 }

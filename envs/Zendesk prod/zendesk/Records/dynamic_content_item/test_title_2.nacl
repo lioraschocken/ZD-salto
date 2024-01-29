@@ -6,4 +6,5 @@ zendesk.dynamic_content_item test_title_2@s {
   variants = [
     zendesk.dynamic_content_item__variants.instance.test_title_2_s__en_US_b@uumuuum,
   ]
+  _alias = "test title 2"
 }

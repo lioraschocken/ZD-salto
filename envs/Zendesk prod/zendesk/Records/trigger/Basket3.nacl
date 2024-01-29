@@ -117,7 +117,7 @@ zendesk.trigger Basket3 {
       {
         field = "current_via_id"
         operator = "is"
-        value = zendesk.channel.instance.Twitter_DM@s
+        value = zendesk.channel.instance.X_Corp_DM@s
       },
       {
         field = "update_type"
@@ -183,4 +183,5 @@ zendesk.trigger Basket3 {
   description = "As many options as possible"
   raw_title = "Basket3"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Basket3"
 }

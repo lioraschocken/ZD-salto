@@ -28,4 +28,5 @@ zendesk.automation Silvery_Automation@s {
     ]
   }
   raw_title = "Silvery Automation"
+  _alias = "Silvery Automation"
 }

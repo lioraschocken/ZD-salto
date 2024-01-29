@@ -22,7 +22,7 @@ zendesk.account_setting {
     list_empty_views = true
     comments_public_by_default = true
     is_first_comment_private_enabled = true
-    maximum_personal_views_to_list = 8
+    maximum_personal_views_to_list = 10
     status_hold = false
     markdown_ticket_comments = false
     rich_text_comments = true
@@ -42,6 +42,11 @@ zendesk.account_setting {
     using_skill_based_routing = true
     edit_ticket_skills_permission = 1
     custom_statuses_enabled = false
+    messaging_transcript_public = true
+    app_shortcuts_context_panel_enabled = true
+    auto_translation_enabled = false
+    agent_invitation_enabled = true
+    chat_sla_enablement = false
   }
   agents = {
     agent_workspace = true
@@ -50,6 +55,9 @@ zendesk.account_setting {
     aw_auto_activation_status = 0
     aw_prevent_opt_out = false
     show_user_profile_page_toggle = false
+    idle_timeout_enabled = false
+    agent_home = false
+    agent_as_a_requester = "private-groups"
   }
   groups = {
     check_group_name_uniqueness = true
@@ -60,6 +68,8 @@ zendesk.account_setting {
     available = true
     maximum_request_count = 1
     welcome_message = "Hi there. How can I help today?"
+    ctm_auto_activation_status = 0
+    ctm_prevent_opt_out = false
   }
   voice = {
     enabled = true
@@ -152,6 +162,10 @@ zendesk.account_setting {
     is_abusive = false
     rich_content_in_emails = true
     benchmark_opt_out = false
+    access_logs_enabled = false
+    custom_object_nav_enabled = false
+    release_control_enabled = true
+    custom_objects_activated = false
   }
   ticket_form = {
     ticket_forms_instructions = ""
@@ -203,6 +217,8 @@ zendesk.account_setting {
     locale_ids = [
       zendesk.locale.instance.es,
       zendesk.locale.instance.he,
+      zendesk.locale.instance.en_au@b,
+      zendesk.locale.instance.sw,
     ]
   }
   knowledge = {
@@ -224,11 +240,40 @@ zendesk.account_setting {
     reassignment_messaging_enabled = true
     reassignment_messaging_timeout = 30
     reassignment_talk_timeout = 30
+    skills_enabled = false
+    skills_timeout_enabled = false
+    skills_timeout_support = 3600
+    skills_timeout_messaging = 30
+    skills_timeout_talk = 30
+    reassignment_reopened_tickets_enabled = false
+    reassignment_reopened_tickets_support_enabled = false
+    reassignment_reopened_tickets_messaging_enabled = false
+    messaging_activity_routing_enabled = false
+    auto_activation = 0
+    auto_accept_messaging_enabled = false
+    focus_mode_enabled = false
   }
   automatic_answers = {
     threshold = "balanced"
   }
   side_conversations = {
     show_in_context_panel = false
+    email_channel = false
+    msteams_channel = false
+    slack_channel = false
+    tickets_channel = false
+  }
+  deletion = {
+    user_auto_delete_soft_deleted_retention = 30
+    user_auto_delete_max_deletions_per_hour = 1000
+    user_auto_delete_batch_size = 1000
+    user_auto_delete_account_prioritisation = 1
+  }
+  messaging = {
+    inactivity_capacity_release_timeout = 10
+  }
+  device_metadata = {
+    hide_ip = false
+    hide_location = false
   }
 }

@@ -3,9 +3,6 @@ zendesk.trigger_order {
     {
       category = zendesk.trigger_category.instance.Notifications
       active = [
-        zendesk.trigger.instance.GWR_Yellow@s,
-        zendesk.trigger.instance.GWR_Purple@s,
-        zendesk.trigger.instance.GWR_Red@s,
         zendesk.trigger.instance.Notify_all_agents_of_received_request@s,
         zendesk.trigger.instance.Notify_requester_and_CCs_of_received_request@s,
         zendesk.trigger.instance.Notify_requester_of_new_proactive_ticket@s,
@@ -23,15 +20,19 @@ zendesk.trigger_order {
         zendesk.trigger.instance.ZSC,
         zendesk.trigger.instance.Assign_Account_Manager_to_High_Priority_Tickets@s,
         zendesk.trigger.instance.GWR_DC_Trigger1@s,
+        zendesk.trigger.instance.GWR_Blue@s,
+        zendesk.trigger.instance.GWR_Purple@s,
+        zendesk.trigger.instance.GWR_Yellow@s,
+        zendesk.trigger.instance.GWR_Yellow_branch@s,
       ]
       inactive = [
-        zendesk.trigger.instance.Auto_assign_to_first_email_responding_agent@bsssss,
       ]
     },
     {
       category = zendesk.trigger_category.instance.Custom_Events@s
       active = [
         zendesk.trigger.instance.DP_Trigger@s,
+        zendesk.trigger.instance.Dependent_on_Org@s,
       ]
       inactive = [
       ]
@@ -39,9 +40,7 @@ zendesk.trigger_order {
     {
       category = zendesk.trigger_category.instance.Labeling
       active = [
-        zendesk.trigger.instance.CE_Enterprise_Account@s,
-        zendesk.trigger.instance.CE_Mid_Market_Account@s,
-        zendesk.trigger.instance.CE_Small_Market_Account@s,
+        zendesk.trigger.instance.looks_at_users,
       ]
       inactive = [
       ]
@@ -65,6 +64,21 @@ zendesk.trigger_order {
       category = zendesk.trigger_category.instance.General_Settings@s
       active = [
         zendesk.trigger.instance.Set_priority_and_group@s,
+      ]
+      inactive = [
+      ]
+    },
+    {
+      category = zendesk.trigger_category.instance.DP
+      active = [
+        zendesk.trigger.instance.DP_Org_Test@s,
+      ]
+      inactive = [
+      ]
+    },
+    {
+      category = zendesk.trigger_category.instance.Delete_These@s
+      active = [
       ]
       inactive = [
       ]

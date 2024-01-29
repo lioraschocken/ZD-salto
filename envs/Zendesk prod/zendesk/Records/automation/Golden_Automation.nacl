@@ -28,4 +28,5 @@ zendesk.automation Golden_Automation@s {
     ]
   }
   raw_title = "Golden Automation"
+  _alias = "Golden Automation"
 }

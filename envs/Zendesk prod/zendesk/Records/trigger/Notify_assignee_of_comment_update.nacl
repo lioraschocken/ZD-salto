@@ -46,4 +46,5 @@ This ticket (#{{ticket.id}}) has been updated.
   }
   raw_title = "Notify assignee of comment update"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify assignee of comment update"
 }

@@ -7,4 +7,5 @@ zendesk.oauth_client salto_zendesk_client {
     "http://localhost:8000",
   ]
   global = false
+  _alias = "salto_zendesk_client"
 }

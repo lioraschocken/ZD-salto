@@ -12,4 +12,5 @@ zendesk.ticket_field SilverField_checkbox {
   tag = zendesk.tag.instance.silver
   removable = true
   agent_description = "Silver"
+  _alias = "SilverField"
 }

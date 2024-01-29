@@ -102,4 +102,5 @@ zendesk.view Platinum_View@s {
     ]
   }
   raw_title = "Platinum View"
+  _alias = "Platinum View"
 }

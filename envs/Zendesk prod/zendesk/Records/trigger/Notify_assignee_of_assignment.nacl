@@ -31,4 +31,5 @@ You have been assigned to this ticket (#{{ticket.id}}).
   }
   raw_title = "Notify assignee of assignment"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify assignee of assignment"
 }

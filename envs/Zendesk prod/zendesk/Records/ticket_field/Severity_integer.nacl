@@ -12,4 +12,5 @@ zendesk.ticket_field Severity_integer {
   required_in_portal = false
   removable = true
   agent_description = "Ticket Severity by number"
+  _alias = "Severity"
 }

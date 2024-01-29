@@ -19,4 +19,5 @@ zendesk.trigger Assign_Account_Manager_to_High_Priority_Tickets@s {
   }
   raw_title = "Assign Account Manager to High Priority Tickets"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Assign Account Manager to High Priority Tickets"
 }

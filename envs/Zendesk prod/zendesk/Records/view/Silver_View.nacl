@@ -102,4 +102,5 @@ zendesk.view Silver_View@s {
     ]
   }
   raw_title = "Silver View"
+  _alias = "Silver View"
 }

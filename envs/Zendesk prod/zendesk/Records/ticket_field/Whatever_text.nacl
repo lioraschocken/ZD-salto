@@ -11,4 +11,5 @@ zendesk.ticket_field Whatever_text {
   required_in_portal = false
   removable = true
   agent_description = "Really whatever"
+  _alias = "Whatever"
 }

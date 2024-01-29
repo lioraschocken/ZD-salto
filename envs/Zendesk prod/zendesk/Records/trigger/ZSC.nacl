@@ -34,4 +34,5 @@ zendesk.trigger ZSC {
   description = "On new ZSC ticket"
   raw_title = "ZSC"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "ZSC"
 }

@@ -11,4 +11,5 @@ zendesk.ticket_field ZSB_checkbox {
   required_in_portal = false
   removable = true
   agent_description = "Is this ZSB related?"
+  _alias = "ZSB"
 }

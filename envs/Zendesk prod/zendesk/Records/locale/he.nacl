@@ -5,4 +5,5 @@ zendesk.locale he {
   presentation_name = "Hebrew - עברית"
   rtl = true
   default = false
+  _alias = "Hebrew - עברית"
 }

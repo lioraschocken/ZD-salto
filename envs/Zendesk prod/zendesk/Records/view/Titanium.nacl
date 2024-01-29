@@ -86,4 +86,5 @@ zendesk.view Titanium {
     ]
   }
   raw_title = "Titanium"
+  _alias = "Titanium"
 }

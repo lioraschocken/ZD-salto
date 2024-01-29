@@ -12,4 +12,5 @@ zendesk.webhook test2 {
     type = "bearer_token"
     add_position = "header"
   }
+  _alias = "test2"
 }

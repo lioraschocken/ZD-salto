@@ -40,4 +40,5 @@ To add additional comments, reply to this email.
   description = "A proactive ticket is a ticket created by an agent on behalf of the requester."
   raw_title = "Notify requester of new proactive ticket"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify requester of new proactive ticket"
 }

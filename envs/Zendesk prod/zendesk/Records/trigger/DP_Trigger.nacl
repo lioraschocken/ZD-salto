@@ -21,4 +21,6 @@ zendesk.trigger DP_Trigger@s {
   }
   raw_title = "DP Trigger"
   category_id = zendesk.trigger_category.instance.Custom_Events@s
+  _alias = "DP Trigger"
+  description = "dp's famous trigger"
 }

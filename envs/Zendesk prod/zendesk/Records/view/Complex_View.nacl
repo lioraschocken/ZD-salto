@@ -162,7 +162,7 @@ zendesk.view Complex_View@s {
       {
         field = "via_id"
         operator = "is_not"
-        value = zendesk.channel.instance.Twitter
+        value = zendesk.channel.instance.X_Corp@s
       },
       {
         field = "recipient"
@@ -214,4 +214,5 @@ zendesk.view Complex_View@s {
     ]
   }
   raw_title = "Complex View"
+  _alias = "Complex View"
 }

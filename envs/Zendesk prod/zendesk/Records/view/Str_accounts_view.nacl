@@ -85,4 +85,5 @@ zendesk.view Str_accounts_view@s {
     ]
   }
   raw_title = "Str accounts view"
+  _alias = "Str accounts view"
 }

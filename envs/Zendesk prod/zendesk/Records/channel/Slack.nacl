@@ -1,3 +1,0 @@
-zendesk.channel Slack {
-  name = "Slack"
-}

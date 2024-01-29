@@ -28,4 +28,5 @@ zendesk.automation Mercury_Automation@s {
     ]
   }
   raw_title = "Mercury Automation"
+  _alias = "Mercury Automation"
 }

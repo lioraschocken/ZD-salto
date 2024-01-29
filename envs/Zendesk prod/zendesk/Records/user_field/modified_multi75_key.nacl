@@ -5,4 +5,5 @@ zendesk.user_field modified_multi75_key {
   raw_description = "abc"
   active = true
   system = false
+  _alias = "multi75"
 }

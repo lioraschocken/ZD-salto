@@ -1,5 +1,6 @@
 zendesk.macro_categories {
   categories = [
+    "Answers",
     "MacroCategory",
     "SRD - Access request",
   ]

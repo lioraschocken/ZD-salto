@@ -11,4 +11,5 @@ zendesk.ticket_field str_accounts_checkbox {
   required_in_portal = false
   tag = ""
   removable = true
+  _alias = "str_accounts"
 }

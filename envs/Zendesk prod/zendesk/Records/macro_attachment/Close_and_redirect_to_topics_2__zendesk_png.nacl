@@ -5,4 +5,5 @@ zendesk.macro_attachment Close_and_redirect_to_topics_2__zendesk_png@sssssuuv {
   _parent = [
     zendesk.macro.instance.Close_and_redirect_to_topics_2@s,
   ]
+  _alias = "zendesk.png"
 }

@@ -47,4 +47,5 @@ To add additional comments, reply to this email.
   }
   raw_title = "Example Answer Bot trigger for Salto Dev"
   category_id = zendesk.trigger_category.instance.Answer_Bot_Triggers@s
+  _alias = "Example Answer Bot trigger for Salto Dev"
 }

@@ -10,4 +10,5 @@ zendesk.ticket_field Plan_includes_24_7_support_checkbox@ssdsu {
   editable_in_portal = false
   required_in_portal = false
   removable = true
+  _alias = "Plan includes 24/7 support"
 }

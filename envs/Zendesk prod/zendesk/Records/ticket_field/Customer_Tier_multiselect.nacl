@@ -18,4 +18,5 @@ zendesk.ticket_field Customer_Tier_multiselect@su {
     zendesk.ticket_field__custom_field_options.instance.Customer_Tier_multiselect_su__jeff_accounts@uumuuu,
     zendesk.ticket_field__custom_field_options.instance.Customer_Tier_multiselect_su__test_accounts@uumuuu,
   ]
+  _alias = "Customer Tier"
 }

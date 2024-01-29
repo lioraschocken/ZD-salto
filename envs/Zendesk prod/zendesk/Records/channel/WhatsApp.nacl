@@ -1,3 +1,4 @@
 zendesk.channel WhatsApp {
   name = "WhatsApp"
+  _alias = "WhatsApp"
 }

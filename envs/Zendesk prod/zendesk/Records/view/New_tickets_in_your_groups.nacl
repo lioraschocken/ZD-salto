@@ -106,4 +106,5 @@ zendesk.view New_tickets_in_your_groups@s {
     ]
   }
   raw_title = "{{zd.new_tickets_in_group}}"
+  _alias = "New tickets in your groups"
 }

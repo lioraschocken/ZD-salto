@@ -12,4 +12,5 @@ zendesk.ticket_field TitaniumField_checkbox {
   tag = ""
   removable = true
   agent_description = "Titanium worthy"
+  _alias = "TitaniumField"
 }

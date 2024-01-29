@@ -5,4 +5,5 @@ zendesk.user_field f204 {
   raw_description = ""
   active = true
   system = false
+  _alias = "f204"
 }

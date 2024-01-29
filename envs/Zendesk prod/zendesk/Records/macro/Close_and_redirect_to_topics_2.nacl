@@ -33,4 +33,5 @@ zendesk.macro Close_and_redirect_to_topics_2@s {
     zendesk.macro_attachment.instance.Close_and_redirect_to_topics_2__zendesk_png@sssssuuv,
   ]
   raw_title = "Close and redirect to topics 2"
+  _alias = "Close and redirect to topics 2"
 }

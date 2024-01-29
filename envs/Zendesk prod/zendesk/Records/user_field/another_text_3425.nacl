@@ -5,4 +5,5 @@ zendesk.user_field another_text_3425 {
   raw_description = ""
   active = true
   system = false
+  _alias = "another text 3425"
 }

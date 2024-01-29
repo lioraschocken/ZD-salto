@@ -37,4 +37,5 @@ This ticket (#{{ticket.id}}) has been reopened.
   }
   raw_title = "Notify assignee of reopened ticket"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify assignee of reopened ticket"
 }

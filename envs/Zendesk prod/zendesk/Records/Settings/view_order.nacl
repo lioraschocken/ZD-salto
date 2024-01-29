@@ -31,7 +31,5 @@ zendesk.view_order {
     zendesk.view.instance.Platinum,
   ]
   inactive = [
-    zendesk.view.instance.Current_tasks@s,
-    zendesk.view.instance.Overdue_tasks@s,
   ]
 }

@@ -3,4 +3,5 @@ zendesk.routing_attribute Language {
   values = [
     zendesk.routing_attribute_value.instance.Language__Italian,
   ]
+  _alias = "Language"
 }

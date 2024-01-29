@@ -15,4 +15,5 @@ zendesk.webhook test {
     }
     add_position = "header"
   }
+  _alias = "test"
 }

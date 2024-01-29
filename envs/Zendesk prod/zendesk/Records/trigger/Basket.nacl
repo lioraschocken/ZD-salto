@@ -40,13 +40,6 @@ zendesk.trigger Basket {
       value = zendesk.ticket_field__custom_field_options.instance.agent_dropdown_643_for_agent_multiselect_ssssu__v1@uuuuumuu
     },
     {
-      field = "notification_target"
-      value = [
-        zendesk.target.instance.missing_1900000033645,
-        "{\"hello\":\"hello\"}",
-      ]
-    },
-    {
       field = "notification_group"
       value = [
         zendesk.group.instance.Support,
@@ -113,7 +106,7 @@ zendesk.trigger Basket {
       {
         field = "current_via_id"
         operator = "is"
-        value = zendesk.channel.instance.Twitter_DM@s
+        value = zendesk.channel.instance.X_Corp_DM@s
       },
       {
         field = "update_type"
@@ -174,9 +167,15 @@ zendesk.trigger Basket {
         operator = "is"
         value = "5"
       },
+      {
+        field = "requester_id"
+        operator = "is"
+        value = "hadas.birin@salto.io"
+      },
     ]
   }
   description = "As many options as possible"
   raw_title = "Basket"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Basket"
 }

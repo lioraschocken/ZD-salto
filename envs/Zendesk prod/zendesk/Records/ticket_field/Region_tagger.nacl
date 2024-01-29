@@ -15,4 +15,5 @@ zendesk.ticket_field Region_tagger {
     zendesk.ticket_field__custom_field_options.instance.Region_tagger__latam,
     zendesk.ticket_field__custom_field_options.instance.Region_tagger__usa,
   ]
+  _alias = "Region"
 }

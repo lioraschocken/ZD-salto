@@ -4,4 +4,5 @@ zendesk.oauth_client c123 {
   company = "Salto"
   description = "oauth client description - EDITED"
   global = false
+  _alias = "c123"
 }

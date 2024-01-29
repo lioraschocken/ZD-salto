@@ -86,4 +86,5 @@ zendesk.view Free_view@s {
     ]
   }
   raw_title = "Free view"
+  _alias = "Free view"
 }

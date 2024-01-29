@@ -15,4 +15,5 @@ zendesk.macro SRD___Access_request__Product_B@sbssffs {
     },
   ]
   raw_title = "SRD - Access request::Product B"
+  _alias = "SRD - Access request::Product B"
 }

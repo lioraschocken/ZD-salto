@@ -25,4 +25,5 @@ zendesk.automation DP_s_test_automation@tss {
     ]
   }
   raw_title = "DP's test automation"
+  _alias = "DP's test automation"
 }

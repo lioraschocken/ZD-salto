@@ -55,4 +55,5 @@ zendesk.trigger Test___Noam@sbs {
   description = "desc"
   raw_title = "Test - Noam"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Test - Noam"
 }

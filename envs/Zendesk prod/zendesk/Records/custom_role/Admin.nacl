@@ -33,14 +33,25 @@ zendesk.custom_role Admin {
     view_access = "full"
     user_view_access = "full"
     voice_dashboard_access = true
-    manage_contextual_workspaces = false
-    manage_organization_fields = false
-    manage_ticket_fields = false
-    manage_ticket_forms = false
-    manage_user_fields = false
-    manage_automations = false
-    manage_skills = false
-    manage_slas = false
-    manage_triggers = false
+    manage_contextual_workspaces = true
+    manage_organization_fields = true
+    manage_ticket_fields = true
+    manage_ticket_forms = true
+    manage_user_fields = true
+    manage_automations = true
+    manage_skills = true
+    manage_slas = true
+    manage_triggers = true
+    manage_suspended_tickets = true
+    ticket_redaction = true
+    manage_roles = "all"
+    manage_groups = true
+    manage_group_memberships = true
+    manage_organizations = true
+    view_reduced_count = false
+    view_filter_tickets = true
+    manage_macro_content_suggestions = true
+    read_macro_content_suggestions = true
   }
+  _alias = "Admin"
 }

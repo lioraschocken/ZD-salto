@@ -11,4 +11,5 @@ zendesk.organization_field dropdown_26 {
     zendesk.organization_field__custom_field_options.instance.dropdown_26__v2,
     zendesk.organization_field__custom_field_options.instance.dropdown_26__v3,
   ]
+  _alias = "dropdown 26"
 }

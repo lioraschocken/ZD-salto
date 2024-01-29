@@ -1,3 +1,4 @@
 zendesk.channel Web_service__API_@ssjk {
-  name = "Web_service__API_@ssjk"
+  name = "Web service (API)"
+  _alias = "Web service (API)"
 }

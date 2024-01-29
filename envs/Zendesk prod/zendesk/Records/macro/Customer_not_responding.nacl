@@ -13,4 +13,5 @@ zendesk.macro Customer_not_responding@s {
     },
   ]
   raw_title = "Customer not responding"
+  _alias = "Customer not responding"
 }

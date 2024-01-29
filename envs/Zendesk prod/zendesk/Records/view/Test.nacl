@@ -68,7 +68,7 @@ zendesk.view Test {
       },
       {
         id = "sla_next_breach_at"
-        title = "Next SLA breach"
+        title = "SLA"
         filterable = true
         sortable = true
       },
@@ -112,7 +112,7 @@ zendesk.view Test {
       },
       {
         id = "sla_next_breach_at"
-        title = "Next SLA breach"
+        title = "SLA"
         filterable = true
         sortable = true
       },
@@ -161,4 +161,5 @@ zendesk.view Test {
     ]
   }
   raw_title = "Test"
+  _alias = "Test"
 }

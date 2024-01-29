@@ -11,4 +11,5 @@ zendesk.app_installation Git_Zen_Lite_for_GitHub_180496@bsssu {
   paid = false
   has_unpaid_subscription = false
   has_incomplete_subscription = false
+  _alias = "Git-Zen Lite for GitHub"
 }

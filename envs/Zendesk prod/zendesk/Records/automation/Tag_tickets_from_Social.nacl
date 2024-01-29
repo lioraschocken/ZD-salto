@@ -27,12 +27,12 @@ zendesk.automation Tag_tickets_from_Social@s {
       {
         field = "via_id"
         operator = "is"
-        value = zendesk.channel.instance.Twitter
+        value = zendesk.channel.instance.X_Corp@s
       },
       {
         field = "via_id"
         operator = "is"
-        value = zendesk.channel.instance.Twitter_DM@s
+        value = zendesk.channel.instance.X_Corp_DM@s
       },
       {
         field = "via_id"
@@ -52,4 +52,5 @@ zendesk.automation Tag_tickets_from_Social@s {
     ]
   }
   raw_title = "Tag tickets from Social"
+  _alias = "Tag tickets from Social"
 }

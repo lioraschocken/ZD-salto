@@ -44,4 +44,5 @@ This ticket (#{{ticket.id}}) has been assigned to group '{{ticket.group.name}}',
   }
   raw_title = "Notify group of assignment"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "Notify group of assignment"
 }

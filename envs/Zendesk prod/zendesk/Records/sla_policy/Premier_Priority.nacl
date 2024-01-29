@@ -23,4 +23,5 @@ zendesk.sla_policy Premier_Priority@s {
       business_hours = false
     },
   ]
+  _alias = "Premier Priority"
 }

@@ -34,4 +34,5 @@ zendesk.trigger GWR_Purple@s {
   description = "new description"
   raw_title = "GWR Purple"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "GWR Purple"
 }

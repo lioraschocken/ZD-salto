@@ -13,4 +13,5 @@ zendesk.ticket_form ZSB {
   active = true
   default = false
   in_all_brands = true
+  _alias = "ZSB"
 }

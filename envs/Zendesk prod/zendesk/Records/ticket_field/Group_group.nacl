@@ -10,4 +10,5 @@ zendesk.ticket_field Group_group {
   editable_in_portal = false
   required_in_portal = false
   removable = false
+  _alias = "Group"
 }

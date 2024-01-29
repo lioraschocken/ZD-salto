@@ -28,4 +28,5 @@ zendesk.ticket_field Type_tickettype {
       value = "task"
     },
   ]
+  _alias = "Type"
 }

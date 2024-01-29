@@ -50,4 +50,5 @@ zendesk.automation Amazing_new_automation@s {
     ]
   }
   raw_title = "Amazing new automation"
+  _alias = "Amazing new automation"
 }

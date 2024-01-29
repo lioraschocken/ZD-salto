@@ -10,4 +10,5 @@ zendesk.ticket_field Description_description {
   editable_in_portal = true
   required_in_portal = true
   removable = false
+  _alias = "Description"
 }

@@ -108,4 +108,5 @@ zendesk.view Recently_solved_tickets@s {
     ]
   }
   raw_title = "{{zd.recently_solved_tickets}}"
+  _alias = "Recently solved tickets"
 }

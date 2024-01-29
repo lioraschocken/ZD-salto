@@ -11,4 +11,5 @@ zendesk.ticket_field Hadas_test_checkbox {
   required_in_portal = false
   tag = zendesk.tag.instance.hadas_test_tag
   removable = true
+  _alias = "Hadas_test"
 }

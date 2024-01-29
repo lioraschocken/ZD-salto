@@ -12,4 +12,5 @@ zendesk.ticket_field Second_added_field_checkbox@ssu {
   tag = ""
   removable = true
   agent_description = "Second added field"
+  _alias = "Second added field"
 }

@@ -24,4 +24,5 @@ zendesk.trigger NH_Silver@s {
   }
   raw_title = "NH Silver"
   category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "NH Silver"
 }

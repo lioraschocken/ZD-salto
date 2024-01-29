@@ -27,4 +27,5 @@ zendesk.business_hours_schedule New_schedule_test@s {
     zendesk.business_hours_schedule_holiday.instance.New_schedule_test_s__my_birthday_second@uumuuss,
     zendesk.business_hours_schedule_holiday.instance.New_schedule_test_s__my_birthday@uumuus,
   ]
+  _alias = "New schedule test"
 }

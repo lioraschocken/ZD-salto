@@ -102,4 +102,5 @@ zendesk.view Mercury_View@s {
     ]
   }
   raw_title = "Mercury View"
+  _alias = "Mercury View"
 }

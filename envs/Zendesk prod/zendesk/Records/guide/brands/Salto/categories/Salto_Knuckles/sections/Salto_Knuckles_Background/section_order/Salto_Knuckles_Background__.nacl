@@ -1,6 +1,0 @@
-zendesk.section_order Salto_Knuckles_Background__ {
-  brand = zendesk.brand.instance.Salto
-  _parent = [
-    zendesk.section.instance.Salto_Knuckles_Background,
-  ]
-}

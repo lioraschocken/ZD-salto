@@ -30,6 +30,10 @@ zendesk.user_field_order {
     zendesk.user_field.instance.f219,
     zendesk.user_field.instance.f220,
     zendesk.user_field.instance.agent_ooo,
+    zendesk.user_field.instance.userfielddropdowntest,
+    zendesk.user_field.instance.uftoremove,
+    zendesk.user_field.instance.gwr_user_field1,
+    zendesk.user_field.instance.userdropdownfield,
   ]
   inactive = [
   ]

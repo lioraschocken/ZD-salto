@@ -13,4 +13,5 @@ zendesk.macro Take_it_@sl {
     },
   ]
   raw_title = "Take it!"
+  _alias = "Take it!"
 }

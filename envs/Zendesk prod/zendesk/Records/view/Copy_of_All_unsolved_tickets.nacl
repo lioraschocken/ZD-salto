@@ -96,4 +96,5 @@ zendesk.view Copy_of_All_unsolved_tickets@s {
     ]
   }
   raw_title = "Copy of All unsolved tickets"
+  _alias = "Copy of All unsolved tickets"
 }

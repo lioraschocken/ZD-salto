@@ -15,4 +15,5 @@ zendesk.ticket_field Testticket_field8dfd3b2a_tagger {
     zendesk.ticket_field__custom_field_options.instance.Testticket_field8dfd3b2a_tagger__v2e14541bc,
   ]
   default_custom_field_option = zendesk.ticket_field__custom_field_options.instance.Testticket_field8dfd3b2a_tagger__v1e14541bc
+  _alias = "Testticket_field8dfd3b2a"
 }

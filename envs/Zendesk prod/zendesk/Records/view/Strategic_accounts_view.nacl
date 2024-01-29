@@ -85,4 +85,5 @@ zendesk.view Strategic_accounts_view@s {
     ]
   }
   raw_title = "Strategic accounts view"
+  _alias = "Strategic accounts view"
 }
